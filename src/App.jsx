@@ -1,10 +1,12 @@
 import './App.css'
+import Login from './Pages/Login/Login'
 
 function App() {
 
   return (
     <>
-     <h5>ecommerce</h5>
+     <Login />
+
     </>
   )
 }
